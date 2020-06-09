@@ -1,7 +1,6 @@
 # First App Part 2
-- Create a repository
-- Install Semantic UI
-- Add More content
+<!-- - Create a repository -->
+<!-- - Add More content -->
   <div>
     <a>
       About Us
@@ -13,3 +12,4 @@
       Something Else
     </a>
   </div>
+  <!-- - Install Semantic UI -->
